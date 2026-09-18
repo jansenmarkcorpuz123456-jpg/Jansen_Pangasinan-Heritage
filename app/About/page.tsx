@@ -30,7 +30,7 @@ export default function AboutPage() {
           <div className="content-grid">
 
             <img
-              src="/images/pangasinan.jpg"
+              src="/Jansen_Pangasinan-Heritage/images/pangasinan.jpg"
               alt="Pangasinan"
               className="content-image"
             />

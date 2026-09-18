@@ -32,7 +32,7 @@ export default function HeritagePage() {
           <div className="content-grid">
 
 <img
-  src="/images/heritage.jpg"
+  src="/Jansen_Pangasinan-Heritage/images/heritage.jpg"
   alt="Pangasinan Heritage"
   className="content-image"
 />

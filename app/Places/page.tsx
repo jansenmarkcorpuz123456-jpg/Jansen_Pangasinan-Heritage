@@ -49,7 +49,7 @@ export default function PlacesPage() {
             <Link href="/places/bolinao" className="card">
 
               <img
-                src="/images/bolinao.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/bolinao.jpg"
                 alt="Bolinao, Pangasinan"
                 className="card-image"
               />
@@ -77,7 +77,7 @@ export default function PlacesPage() {
             <Link href="/places/Sual" className="card">
 
               <img
-                src="/images/Sual.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/Sual.jpg"
                 alt="Bani, Pangasinan"
                 className="card-image"
               />
@@ -104,7 +104,7 @@ export default function PlacesPage() {
             <Link href="/places/Bani" className="card">
 
               <img
-                src="/images/Bani.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/Bani.jpg"
                 alt="Bani, Pangasinan"
                 className="card-image"
               />
@@ -131,7 +131,7 @@ export default function PlacesPage() {
             <Link href="/places/Agno" className="card">
 
               <img
-                src="/images/Agno.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/Agno.jpg"
                 alt="Agno, Pangasinan"
                 className="card-image"
               />
@@ -158,7 +158,7 @@ export default function PlacesPage() {
             <Link href="/places/Dasol" className="card">
 
               <img
-                src="/images/Dasol.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/Dasol.jpg"
                 alt="Dasol, Pangasinan"
                 className="card-image"
               />
@@ -186,7 +186,7 @@ export default function PlacesPage() {
             <Link href="/places/Anda" className="card">
 
               <img
-                src="/images/Anda.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/Anda.jpg"
                 alt="Anda, Pangasinan"
                 className="card-image"
               />
@@ -213,7 +213,7 @@ export default function PlacesPage() {
             <Link href="/places/Infanta" className="card">
 
               <img
-                src="/images/Infanta.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/Infanta.jpg"
                 alt="Infanta, Pangasinan"
                 className="card-image"
               />
@@ -240,7 +240,7 @@ export default function PlacesPage() {
             <Link href="/places/Burgos" className="card">
 
               <img
-                src="/images/Burgos.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/Burgos.jpg"
                 alt="Burgos, Pangasinan"
                 className="card-image"
               />
@@ -267,7 +267,7 @@ export default function PlacesPage() {
             <Link href="/places/Natividad" className="card">
 
               <img
-                src="/images/Natividad.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/Natividad.jpg"
                 alt="Natividad, Pangasinan"
                 className="card-image"
               />
@@ -294,7 +294,7 @@ export default function PlacesPage() {
             <Link href="/places/San Fabian" className="card">
 
               <img
-                src="/images/San Fabian.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/San Fabian.jpg"
                 alt="San Fabian, Pangasinan"
                 className="card-image"
               />
@@ -321,7 +321,7 @@ export default function PlacesPage() {
             <Link href="/places/lingayen" className="card">
 
               <img
-                src="/images/lingayen.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/lingayen.jpg"
                 alt="Lingayen, Pangasinan"
                 className="card-image"
               />
@@ -350,7 +350,7 @@ export default function PlacesPage() {
             <Link href="/places/dagupan" className="card">
 
               <img
-                src="/images/dagupan.jpg"
+                src="/Jansen_Pangasinan-Heritage/images/dagupan.jpg"
                 alt="Dagupan City"
                 className="card-image"
               />

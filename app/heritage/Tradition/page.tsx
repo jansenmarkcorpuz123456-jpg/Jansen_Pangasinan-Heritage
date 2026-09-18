@@ -59,7 +59,7 @@ export default function TraditionPage() {
           <div className="heritage-story">
 
             <img
-              src="/images/Tradition 1.jpg"
+              src="/Jansen_Pangasinan-Heritage/images/Tradition 1.jpg"
               alt="Bani, Pangasinan"
               className="heritage-story-image"
             />
@@ -91,7 +91,7 @@ export default function TraditionPage() {
           <div className="heritage-story reverse">
 
             <img
-              src="/images/Tradition 2.jpg"
+              src="/Jansen_Pangasinan-Heritage/images/Tradition 2.jpg"
               alt="Traditional community"
               className="heritage-story-image"
             />
@@ -122,7 +122,7 @@ export default function TraditionPage() {
           <div className="heritage-story">
 
             <img
-              src="/images/Tradition 3.jpg"
+              src="/Jansen_Pangasinan-Heritage/images/Tradition 3.jpg"
               alt="Sual, Pangasinan"
               className="heritage-story-image"
             />

@@ -62,7 +62,7 @@ export default function HistoryPage() {
           <div className="heritage-story">
 
             <img
-              src="/images/Lingayen 1.jpg"
+              src="/Jansen_Pangasinan-Heritage/images/Lingayen 1.jpg"
               alt="Lingayen, Pangasinan"
               className="heritage-story-image"
             />
@@ -93,7 +93,7 @@ export default function HistoryPage() {
           <div className="heritage-story reverse">
 
             <img
-              src="/images/Dagupan 1.jpg"
+              src="/Jansen_Pangasinan-Heritage/images/Dagupan 1.jpg"
               alt="Dagupan City"
               className="heritage-story-image"
             />
@@ -124,7 +124,7 @@ export default function HistoryPage() {
           <div className="heritage-story">
 
             <img
-              src="/images/History 2.jpg"
+              src="/Jansen_Pangasinan-Heritage/images/History 2.jpg"
               alt="Pangasinan landscape"
               className="heritage-story-image"
             />

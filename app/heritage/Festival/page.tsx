@@ -60,7 +60,7 @@ export default function FestivalPage() {
           <div className="heritage-story">
 
             <img
-              src="/images/Pista'y Dayat.jpg"
+              src="/Jansen_Pangasinan-Heritage/images/Pista'y Dayat.jpg"
               alt="Pangasinan Festival"
               className="heritage-story-image"
             />
@@ -92,7 +92,7 @@ export default function FestivalPage() {
           <div className="heritage-story reverse">
 
             <img
-              src="/images/Bangus.jpg"
+              src="/Jansen_Pangasinan-Heritage/images/Bangus.jpg"
               alt="Lingayen celebration"
               className="heritage-story-image"
             />
@@ -123,7 +123,7 @@ export default function FestivalPage() {
           <div className="heritage-story">
 
             <img
-              src="/images/Talong.jpg"
+              src="/Jansen_Pangasinan-Heritage/images/Talong.jpg"
               alt="Bolinao, Pangasinan"
               className="heritage-story-image"
             />
